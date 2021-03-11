@@ -1,5 +1,6 @@
 {
     "name": "aeyoll/bootstrap-icons",
+    "description": "Utility to get the markup of Bootstrap icons (https://icons.getbootstrap.com/)",
     "license": "MIT",
     "repositories": {
         "twbs-icons": {
@@ -21,7 +22,7 @@
         ]
     },
     "require": {
-        "twbs/icons": "*"
+        "twbs/icons": "^1.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5"

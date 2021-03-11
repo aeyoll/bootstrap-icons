@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "44fbd5784c076d62f8e9a0822fc08d6f",
+    "content-hash": "973be517f4caf92a4c139831aa403927",
     "packages": [
         {
             "name": "twbs/icons",
