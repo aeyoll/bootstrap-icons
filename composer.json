@@ -1,5 +1,6 @@
 {
     "name": "aeyoll/bootstrap-icons",
+    "licence": "MIT",
     "repositories": {
         "twbs-icons": {
             "type": "package",
